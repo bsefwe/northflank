@@ -13,7 +13,7 @@
   * northflank账号需要绑定信用卡，可以搭建两个免费服务。
 ## 镜像
 
-注册
+注册网站
 
 [![Deploy](https://app.northflank.com/deploy/gfujrf.png)](https://app.northflank.com) 
 
